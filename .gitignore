@@ -39,3 +39,8 @@ nosetests.xml
 *.komodoproject
 
 .DS_Store
+# Binary
+*.out
+*.class
+*.o
+*.hi
